@@ -1,0 +1,26 @@
+<div class="box"><a class="booknow" href="#popup1">BOOK NOW</a></div> <!-- floating button -->
+<div id="popup1" class="overlay"><div class="popup"><a class="close" href="#">×</a>
+
+<div class="content"><div class="container">
+<form>
+        <!--area one-- url ends with "#popup1" -->    
+	
+
+</form>
+
+<div class="button-container"></div></div></div></div></div>
+
+
+
+
+
+<div id="popup2" class="overlay"><div class="popup"><a class="close" href="#">×</a>
+
+<div class="content"><div class="container">
+<form>
+            
+                   <!--area one-- url ends with "#popup2" --> 
+</form>
+
+<div class="button-container"></div></div></div></div></div>
+
