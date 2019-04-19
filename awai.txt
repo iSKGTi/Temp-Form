@@ -1,0 +1,5 @@
+<div style="font-size: 30px; color: green; font-weight: 900;" align="center"> Booked Sucessfully!</div>
+<br><br>
+<p align="center">Our Executive will get in touch with you soon!</p>
+<br><br>
+<a href="" style="text-decoration:none;"> <div style="background: green; color: white; height: 30px; align: centre; padding-top:10px;" align="center"> Go To Home Page</div></a>
